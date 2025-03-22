@@ -44,5 +44,7 @@ I apologize that when docking left or right there is no title but only the conte
 
 ![image](https://github.com/user-attachments/assets/2d7a695f-75da-4c23-bc31-0b6f1295038f)
 
+Obviously for an Offline Session answers may be wonky, but still functional (Again Dependent on what hardware you have (GPU or CPU))
+![image](https://github.com/user-attachments/assets/9ad9c0d2-1fb6-4e6b-b98d-3af163e45b8b)
 
 
