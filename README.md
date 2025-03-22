@@ -15,7 +15,7 @@ It has AI integration using the Llama2 model which is running on a Ollama instan
 
 PLEASE NOTE:
 
-The model is around 3.8Gb, I have included it in the files, so If you don't care for any other models you can simply run the Llama2 model and it works fine..
+The model preloaded AI model is around 3.8Gb, I have included it in the files, so If you don't care for any other models you can simply run the Llama2 model and it works fine, it works offline, privacy and data stored is locally
 
 
 # HOW TO USE
