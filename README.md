@@ -1,3 +1,6 @@
+//Limitations
+- Cannot save to text files. Only saved in session.
+
 # NotePaddy
 
 Good day!
@@ -32,3 +35,14 @@ Want to interact with AI? Write whatever in the box as the prompt or reference a
 
 # Other Remarks
 - Note that there is a 5s timeout where the docking notch becomes fully transperant allowing you to work on your full screen, If you want to access it back simply go back to the notch area and it will appear back infront your eyes
+
+- Hate the Top docking?
+You can also dock Top, Bottom, Left and Right!
+Simply use the Toggle button on the Left of the main bar for your choice
+
+I apologize that when docking left or right there is no title but only the content in your session
+
+![image](https://github.com/user-attachments/assets/2d7a695f-75da-4c23-bc31-0b6f1295038f)
+
+
+
